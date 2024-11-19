@@ -16,17 +16,18 @@
 
 
 <h2>Cybersecurity Projects:</h2>
-<b>SQLi Detector(Zeus)</b>
 
-<b>SSH and Web-Based Honeypot</b>
+- <a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)</a>
+
+- <a href="https://github.com/Alanperry1/ssh_honeypot">SSH and Web-Based Honeypot</a>
   
-- <b>Digital Forensics Case Study Project</b>
+- <a href="https://drive.google.com/file/d/1uC6BDLVLrRLpIPjd5B6F1TC0LWHij2Qe/view">Digital Forensics Case Study Project</a>
   
-- <b>Port Scanner</b>
+- <a href="https://github.com/Alanperry1/Port-Scanner">Port Scanner</a>
   
+- <a href="https://github.com/Alanperry1/Keylogger">Keylogger</a>
+
 - <b>Malware Analysis Project</b>
-
-- <b>Keylogger</b>
 
 <h2>Certifications</h2>
 
@@ -42,7 +43,7 @@
 
 
 [twitter]: https://twitter.com/CypherKronos
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/c/TheCyber_Vault
 [linkedin]: https://linkedin.com/in/pabaning
 
 <!--
