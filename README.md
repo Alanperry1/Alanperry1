@@ -43,7 +43,7 @@
 
 
 [twitter]: https://twitter.com/CypherKronos
-[youtube]: https://www.youtube.com/c/TheCyber_Vault
+[youtube]: https://www.youtube.com/@TheCyber_Vault
 [linkedin]: https://linkedin.com/in/pabaning
 
 <!--
