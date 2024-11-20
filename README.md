@@ -7,27 +7,28 @@
 <h4>Intermediate: C (1 yr) || Bash (2 yrs) || SQL (2 yrs) || Javascript(1.5 yrs)</h4>
 
 
-<h2>Tools</h2>
+<h2>Tools
 <img align="left" alt="PhilipBaning | WireShark" width="120px" src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png"/>
 <img align="left" alt="PhilipBaning | Splunk" width="60px" src="https://www.maltego.com/images/uploads/splunk-logo.png" />
 <img align="left" alt="PhilipBaning | BurpSuite" width="60px" src="https://cdn.prod.website-files.com/62efedb360a7998b0e43cb84/6321a0f076706854ff591093_All%20about%20BurpSuite.jpg" />
-<img align="left" alt="PhilipBaning | Autopsy" width="45px" src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" />
+<img align="left" alt="PhilipBaning | Autopsy" width="45px" src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" /></h2>
 
 
 
+<h2> </h2>
 <h2>Cybersecurity Projects:</h2>
 
-- <a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)</a>
+<a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)<br/></a>
 
-- <a href="https://github.com/Alanperry1/ssh_honeypot">SSH and Web-Based Honeypot</a>
+<a href="https://github.com/Alanperry1/ssh_honeypot">SSH and Web-Based Honeypot</a>
+    
+<a href="https://drive.google.com/file/d/1uC6BDLVLrRLpIPjd5B6F1TC0LWHij2Qe/view">Digital Forensics Case Study Project</a>
+    
+<a href="https://github.com/Alanperry1/Port-Scanner">Port Scanner</a>
+    
+<a href="https://github.com/Alanperry1/Keylogger">Keylogger</a>
   
-- <a href="https://drive.google.com/file/d/1uC6BDLVLrRLpIPjd5B6F1TC0LWHij2Qe/view">Digital Forensics Case Study Project</a>
-  
-- <a href="https://github.com/Alanperry1/Port-Scanner">Port Scanner</a>
-  
-- <a href="https://github.com/Alanperry1/Keylogger">Keylogger</a>
-
-- <b>Malware Analysis Project</b>
+<b>Malware Analysis Project</b>
 
 <h2>Certifications</h2>
 
