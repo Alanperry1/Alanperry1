@@ -8,18 +8,17 @@
 
 
 <h2>Tools</h2>
+
 <img align="left" alt="PhilipBaning | WireShark" width="120px" src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png"/>
 <img align="left" alt="PhilipBaning | Splunk" width="60px" src="https://www.maltego.com/images/uploads/splunk-logo.png" />
 <img align="left" alt="PhilipBaning | BurpSuite" width="60px" src="https://cdn.prod.website-files.com/62efedb360a7998b0e43cb84/6321a0f076706854ff591093_All%20about%20BurpSuite.jpg" />
 <img align="left" alt="PhilipBaning | Autopsy" width="40px" src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" />
-<img align="left" alt="PhilipBaning | Cellebrite" width="55px" src="https://img.officer.com/files/base/cygnus/ofcr/image/2017/09/CLB_logo_NoTag_2color_pos_rgb.59b829edde075.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" />
+<img align="left" alt="PhilipBaning | Cellebrite" width="65px" src="https://img.officer.com/files/base/cygnus/ofcr/image/2017/09/CLB_logo_NoTag_2color_pos_rgb.59b829edde075.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" />
 <img align="left" alt="PhilipBaning | Nmap" width="52px" src="https://miro.medium.com/v2/resize:fit:576/1*R6I7ZcaoaL0TIaclrFoR5A.png" />
 <img align="left" alt="PhilipBaning | Nmap" width="65px" src="https://media.licdn.com/dms/image/v2/D4D12AQEa_J0dinoDtA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721187455024?e=2147483647&v=beta&t=OtHRrGsNAtI5sZkYV9Uu0D-Q8JAcbUYymXGepoRxwQs" />
-<img align="left" alt="PhilipBaning | Nmap" width="60px" src="https://cyberhub.oss-me-central-1.aliyuncs.com/uploads/8MZ2iRAMgLgzVN7VjX-8oXwbk1nKZb" />
-</h2>
+<img align="left" alt="PhilipBaning | Snort" width="55px" src="https://cyberhub.oss-me-central-1.aliyuncs.com/uploads/8MZ2iRAMgLgzVN7VjX-8oXwbk1nKZb" />
 
-
-
+<h5>.</h5>
 <h2>Cybersecurity Projects:</h2>
 
 <a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)<br/></a>
