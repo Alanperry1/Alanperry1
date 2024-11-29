@@ -21,7 +21,10 @@
 <h5>.</h5>
 <h2>Cybersecurity Projects:</h2>
 
-<a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)<br/></a>
+<a href="https://github.com/Alanperry1/SQLi-Scanner">Reverse Shell Payload Generator</a>
+
+
+<a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)</a>
 
 <a href="https://github.com/Alanperry1/ssh_honeypot">SSH and Web-Based Honeypot</a>
     
