@@ -23,6 +23,7 @@
 
 <a href="https://github.com/Alanperry1/Payload-Generator">Reverse Shell Payload Generator</a>
 
+<a href="https://github.com/Alanperry1/WIZARD">WIZARD</a>
 
 <a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)</a>
 
@@ -38,7 +39,9 @@
 
 <h2>Certifications</h2>
 
-- <b>Google Cybersecurity Certification</b>
+- <b>Certified AppSec Practitioner</b>
+- <b>Google CSP</b>
+- <b>ISC2 CC</b> 
 - <b>Red Team Essentials</b>
 - <b>Comptia Security+ (Pending)</b>
   
