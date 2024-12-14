@@ -23,7 +23,7 @@
 
 <a href="https://github.com/Alanperry1/Payload-Generator">Reverse Shell Payload Generator</a>
 
-<a href="https://github.com/Alanperry1/WIZARD">WIZARD</a>
+<a href="https://github.com/Alanperry1/WIZARD">WIZARD(Write, Inspect, Zero, Analyze, Rewrite, Delete)</a>
 
 <a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)</a>
 
