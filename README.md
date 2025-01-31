@@ -39,8 +39,10 @@
 
 <h2>Certifications</h2>
 
-- <b>Certified AppSec Practitioner</b>
+- <b>Certified AppSec Practitioner (CAP)</b>
 - <b>Google CSP</b>
+- <b>Certified Network Security Practitioner (CNSP)</b> 
+- <b>C3SA by Cyberwarefare Labs</b>
 - <b>ISC2 CC</b> 
 - <b>Red Team Essentials</b>
 - <b>Comptia Security+ (Pending)</b>
