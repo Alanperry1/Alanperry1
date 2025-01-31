@@ -1,6 +1,6 @@
 <h1>Hi, I'm Philip Baning! <br/><a href="https://github.com/Alanperry1">Python Programmer</a>, <a href="https://www.linkedin.com/in/pabaning/">Cybersecurity Professional(Red Teamer)</a>, <a href="baningphilip1@gmail.com">Student@Grambling State University</a></h1>
 
-<h2>Professional Summary</h2>Results-driven cybersecurity major specializing in offensive security and digital forensics. Adept at leveraging data-driven decision-making to identify vulnerabilities and implement effective security measures. Committed to continuous learning and applying advanced techniques to enhance organizational security and resilience against cyber threats. <a href="https://drive.google.com/file/d/1F6AIfZDGyNf8MP0c6mYOx8vSI1FsfNjV/view?usp=drive_link">>RESUME<</a>
+<h2>Professional Summary</h2>Results-driven cybersecurity major specializing in offensive security and digital forensics. Adept at leveraging data-driven decision-making to identify vulnerabilities and implement effective security measures. Committed to continuous learning and applying advanced techniques to enhance organizational security and resilience against cyber threats. <a href="https://drive.google.com/file/d/1hJ-Ygy_WcH0yihQzdsdTDYg1XlDzR2CF/view?usp=drive_link">>RESUME<</a>
 
 <h2>Programming Languages</h2>
 <h4>Proficient: Python (3 yrs) || C++ (2 yrs)</h4>
