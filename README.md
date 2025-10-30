@@ -1,65 +1,22 @@
-<h1>Hi, I'm Philip Baning! <br/><a href="https://github.com/Alanperry1">Python Programmer</a>, <a href="https://www.linkedin.com/in/pabaning/">Cybersecurity Professional(Red Teamer)</a>, <a href="baningphilip1@gmail.com">Student@Grambling State University</a></h1>
+<h1 align="center">Hi 👋, I'm Baning Philip</h1>
+<h3 align="center">A passionate Software and Machine Learning engineer based in the US. Currently studying CS at Grambling State University.</h3>
 
-<h2>Professional Summary</h2>Results-driven cybersecurity major specializing in offensive security and digital forensics. Adept at leveraging data-driven decision-making to identify vulnerabilities and implement effective security measures. Committed to continuous learning and applying advanced techniques to enhance organizational security and resilience against cyber threats. <a href="https://drive.google.com/file/d/1hJ-Ygy_WcH0yihQzdsdTDYg1XlDzR2CF/view?usp=drive_link">>RESUME<</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanperry1" alt="alanperry1" /></a> </p>
 
-<h2>Programming Languages</h2>
-<h4>Proficient: Python (3 yrs) || C++ (2 yrs)</h4>
-<h4>Intermediate: C (1 yr) || Bash (2 yrs) || SQL (2 yrs) || Javascript(1.5 yrs)</h4>
+- 📫 How to reach me **baningphilip1@gmail.com**
 
+- ⚡ Fun fact **I’m a great cook; my jollof rice could probably win a hackathon if food were code.**
 
-<h2>Tools</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pbaning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pbaning" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="PhilipBaning | WireShark" width="120px" src="https://miro.medium.com/v2/resize:fit:1200/0*zFEilgbfPjq9rr9L.png"/>
-<img align="left" alt="PhilipBaning | Splunk" width="60px" src="https://www.maltego.com/images/uploads/splunk-logo.png" />
-<img align="left" alt="PhilipBaning | BurpSuite" width="60px" src="https://cdn.prod.website-files.com/62efedb360a7998b0e43cb84/6321a0f076706854ff591093_All%20about%20BurpSuite.jpg" />
-<img align="left" alt="PhilipBaning | Autopsy" width="40px" src="https://www.kali.org/tools/autopsy/images/autopsy-logo.svg" />
-<img align="left" alt="PhilipBaning | Cellebrite" width="65px" src="https://img.officer.com/files/base/cygnus/ofcr/image/2017/09/CLB_logo_NoTag_2color_pos_rgb.59b829edde075.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630" />
-<img align="left" alt="PhilipBaning | Nmap" width="52px" src="https://miro.medium.com/v2/resize:fit:576/1*R6I7ZcaoaL0TIaclrFoR5A.png" />
-<img align="left" alt="PhilipBaning | Nmap" width="65px" src="https://media.licdn.com/dms/image/v2/D4D12AQEa_J0dinoDtA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721187455024?e=2147483647&v=beta&t=OtHRrGsNAtI5sZkYV9Uu0D-Q8JAcbUYymXGepoRxwQs" />
-<img align="left" alt="PhilipBaning | Snort" width="55px" src="https://cyberhub.oss-me-central-1.aliyuncs.com/uploads/8MZ2iRAMgLgzVN7VjX-8oXwbk1nKZb" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<h5>.</h5>
-<h2>Cybersecurity Projects:</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanperry1&show_icons=true&locale=en&layout=compact" alt="alanperry1" /></p>
 
-<a href="https://github.com/Alanperry1/Payload-Generator">Reverse Shell Payload Generator</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanperry1&show_icons=true&locale=en" alt="alanperry1" /></p>
 
-<a href="https://github.com/Alanperry1/WIZARD">WIZARD(Write, Inspect, Zero, Analyze, Rewrite, Delete)</a>
-
-<a href="https://github.com/Alanperry1/SQLi-Scanner">SQLi Detector(Zeus)</a>
-
-<a href="https://github.com/Alanperry1/ssh_honeypot">SSH and Web-Based Honeypot</a>
-    
-<a href="https://drive.google.com/file/d/1uC6BDLVLrRLpIPjd5B6F1TC0LWHij2Qe/view">Digital Forensics Case Study Project</a>
-    
-<a href="https://github.com/Alanperry1/Port-Scanner">Port Scanner</a>
-    
-<a href="https://github.com/Alanperry1/Keylogger">Keylogger</a>
-  
-<b>Malware Analysis Project</b>
-
-<h2>Certifications</h2>
-
-- <b>Certified AppSec Practitioner (CAP)</b>
-- <b>Google CSP</b>
-- <b>Certified Network Security Practitioner (CNSP)</b> 
-- <b>C3SA by Cyberwarefare Labs</b>
-- <b>ISC2 CC</b> 
-- <b>Red Team Essentials</b>
-- <b>Comptia Security+ (Pending)</b>
-  
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="PhilipBaning | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="PhilipBaning | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="PhilipBaning | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[twitter]: https://twitter.com/CypherKronos
-[youtube]: https://www.youtube.com/@TheCyber_Vault
-[linkedin]: https://linkedin.com/in/pabaning
-
-<!--
-
--->
-<!--
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanperry1&" alt="alanperry1" /></p>
