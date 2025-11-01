@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **baningphilip1@gmail.com**
 
-- ⚡ Fun fact **I’m a great cook; my jollof rice could probably win a hackathon if food were code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
