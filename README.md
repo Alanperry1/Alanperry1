@@ -16,17 +16,32 @@
 
 ## 🧠 About Me
 
-```ts
-const baning = {
-  name:       "Baning Philip",
-  location:   "United States 🇺🇸",
-  education:  "CS @ Grambling State University",
-  focus:      ["Backend Engineering", "Machine Learning", "Distributed Systems"],
-  building:   "Scalable, secure, and high-performance backend systems",
-  collab:     "Open-source SWE & ML projects",
-  available:  true,
-};
-```
+<table>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>Computer Science @ Grambling State University</td>
+  </tr>
+  <tr>
+    <td><b>🌍 Location</b></td>
+    <td>United States</td>
+  </tr>
+  <tr>
+    <td><b>🔭 Currently Building</b></td>
+    <td>Scalable, secure, and high-performance backend systems</td>
+  </tr>
+  <tr>
+    <td><b>🧩 Focus Areas</b></td>
+    <td>Backend Engineering &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Distributed Systems</td>
+  </tr>
+  <tr>
+    <td><b>🤝 Open To</b></td>
+    <td>Open-source SWE & Machine Learning collaborations</td>
+  </tr>
+  <tr>
+    <td><b>✅ Status</b></td>
+    <td><img src="https://img.shields.io/badge/Available-00c853?style=flat-square" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -79,6 +94,8 @@ const baning = {
 <img src="https://streak-stats.demolab.com?user=Alanperry1&theme=merko&hide_border=true" height="180"/>
 
 <br/>
+
+<h3>📈 Contribution Graph</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanperry1&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/>
 
