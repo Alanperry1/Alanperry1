@@ -95,8 +95,6 @@
 
 <br/>
 
-<h3>📈 Contribution Graph</h3>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanperry1&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
