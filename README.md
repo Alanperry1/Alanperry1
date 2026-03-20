@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00bfff&height=200&section=header&text=Baning%20Philip&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&descColor=aaffcc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00bfff&height=200&section=header&text=Baning%20Philip&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=aaffcc" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=Backend+%26+ML+Engineer+%F0%9F%9A%80;CS+Student+%40+Grambling+State+University;Building+Scalable+%26+Secure+Systems;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=Backend+%26+Machine+Learning+Engineer;CS+Student+%40+Grambling+State+University;Building+Scalable+%26+Secure+Systems;Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
@@ -77,10 +77,6 @@ const baning = {
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Alanperry1&theme=merko&hide_border=true" height="180"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alanperry1&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 <br/>
 
