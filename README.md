@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00bfff&height=200&section=header&text=Baning%20Philip&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20Engineer%20%7C%20Top%2010%20Global%20CODM&descAlignY=58&descSize=18&descColor=aaffcc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00bfff&height=200&section=header&text=Baning%20Philip&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&descColor=aaffcc" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=Backend+%26+ML+Engineer+%F0%9F%9A%80;CS+Student+%40+Grambling+State+University;Building+Scalable+%26+Secure+Systems;Top+10+Global+CODM+Player+%F0%9F%8E%AE;Open+Source+Contributor" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=Backend+%26+ML+Engineer+%F0%9F%9A%80;CS+Student+%40+Grambling+State+University;Building+Scalable+%26+Secure+Systems;Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +24,6 @@ const baning = {
   focus:      ["Backend Engineering", "Machine Learning", "Distributed Systems"],
   building:   "Scalable, secure, and high-performance backend systems",
   collab:     "Open-source SWE & ML projects",
-  funFact:    "Top 10 global CODM player 🎮",
   available:  true,
 };
 ```
@@ -77,7 +76,7 @@ const baning = {
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Alanperry1&theme=merko&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Alanperry1&theme=merko&hide_border=true" height="180"/>
 
 <br/>
 
@@ -85,7 +84,7 @@ const baning = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanperry1&theme=merko&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanperry1&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
