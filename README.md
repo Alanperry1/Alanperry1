@@ -51,6 +51,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -86,8 +87,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Alanperry1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alanperry1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Alanperry1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanperry1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180"/>
 
 <br/>
 
