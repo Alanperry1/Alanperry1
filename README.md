@@ -86,8 +86,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alanperry1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanperry1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Alanperry1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Alanperry1&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
 
 <br/>
 
