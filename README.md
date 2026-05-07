@@ -87,7 +87,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alanperry1&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=Alanperry1&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="trophies" />
 
 </div>
 
@@ -96,11 +96,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Alanperry1&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanperry1&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
-
-<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alanperry1&theme=github_dark" height="180"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alanperry1&theme=github_dark" height="180"/>
